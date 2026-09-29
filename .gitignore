@@ -1,0 +1,19 @@
+# Chrome extension specifics
+node_modules/
+dist/
+*.pem
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+
+# Testing
+.nyc_output/
+coverage/
